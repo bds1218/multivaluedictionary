@@ -1,7 +1,7 @@
 # multivaluedictionary
 A command line work sample, implementing a multi-value dictionary and some commands for interacting with it.
 
-Built with .NET Framework 4.7.2
+Built with .NET Framework 4.7.2: https://dotnet.microsoft.com/download/dotnet-framework/net472
 
 ## BUILD/RUN
 

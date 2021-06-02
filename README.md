@@ -1,11 +1,16 @@
 # multivaluedictionary
-A multi-value dictionary work sample
+A command line work sample, implementing a multi-value dictionary and some commands for interacting with it.
 
 Built with .NET Framework 4.7.2
 
-The Multi-Value Dictionary app is a command line application that stores a multivalue dictionary in memory.  All keys and values are strings. 
+## BUILD/RUN
 
-It should support the following commands.
+- Clone the repo (See https://docs.github.com/en/github/getting-started-with-github/getting-started-with-git/about-remote-repositories#cloning-with-https-urls)
+- Open the SLN file in Visual Studio. Built with .NET Framework, though it may work in .NET Core.
+- Build the solution `CTRL+SHIFT+B`
+- Run the executable
+
+## COMMANDS
 
 ### KEYS
 Returns all the keys in the dictionary.  Order is not guaranteed.
